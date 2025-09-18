@@ -6,4 +6,4 @@ services:
     restart: always
     ports: []
     environment:
-      TOKEN: 
+      TOKEN: ${TOKEN}
