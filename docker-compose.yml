@@ -6,4 +6,4 @@ services:
     restart: always
     ports: []
     environment:
-      TOKEN: # put your token here
+      TOKEN: MTE2OTYxNDEzNTMzMjQzODA1OQ.G5W6vH.dHUVovsoDR8uwekTW2U8m0lG9KfvaHyBYCp04A
